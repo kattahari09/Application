@@ -1,0 +1,10 @@
+git init
+git status
+touch options.txt
+git add .
+git commit -m "commit message"
+git push https://github.com/kattahari09/Application.git
+git clone https://github.com/kattahari09/Application.git
+git revert latest commit
+git diff
+
