@@ -7,4 +7,6 @@ git push https://github.com/kattahari09/Application.git
 git clone https://github.com/kattahari09/Application.git
 git revert latest commit
 git diff
+git branch dev - creating new branch
+git switch dev and git checkout - both commands used to switch to a branch.
 
