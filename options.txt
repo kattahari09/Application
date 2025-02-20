@@ -7,4 +7,9 @@ git push https://github.com/kattahari09/Application.git
 git clone https://github.com/kattahari09/Application.git
 git revert latest commit
 git diff
+git branch <branch name> - creating new branch
+git switch <dev> and git checkout - both commands used to switch to a branch.
+git branch -d branch name  deletes fully merged branches
+git branch -D branch name deletes unmerged branches
+git branch -m branch name (-m hepls to rename branches)
 
